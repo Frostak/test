@@ -1,0 +1,16 @@
+Simple console application for packages and fees
+
+Just download included jar file
+Run command line and switch to where you download it
+
+To run jar file: java -jar Thread.jar initFile feeFile
+
+optional initFile - providing this will cause application to load initFile.txt with initial load of packages
+optional feeFile - providing this will cause application to load feeFile.txt with initial load of fees
+
+writing quit will exit application
+
+unit testing and documentation not included in program of that size (application is pretty simple to understand)
+
+There are many options how to implement.
+Also many point should be discussed how should be exactly implemented and much more specified behaviour.
